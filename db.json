@@ -1,9 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "title": "Sr. Full Stack Developer",
+  "requiredSkills": "Java8 or above including lambda expressions and streams, Spring, SQL, NoSQL, Design, implement and administer the database system, DSA, React, Node.js, typescript good to have",
+  "yearsOfExperience": "3 To 8 Years",
+  "applyLink": "https://forms.gle/Hp2LWLmaYbcsGdMn9",
+  "educationQualifications": "Any Bachelor's Degree",
+  "location": "Pune, MH"
 }
